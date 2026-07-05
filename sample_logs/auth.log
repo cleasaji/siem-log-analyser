@@ -1,0 +1,16 @@
+Jun 15 14:32:01 server sshd[1234]: Failed password for admin from 10.0.0.44 port 52341 ssh2
+Jun 15 14:32:03 server sshd[1234]: Failed password for admin from 10.0.0.44 port 52342 ssh2
+Jun 15 14:32:05 server sshd[1234]: Failed password for root from 10.0.0.44 port 52343 ssh2
+Jun 15 14:32:07 server sshd[1234]: Failed password for admin from 10.0.0.44 port 52344 ssh2
+Jun 15 14:32:09 server sshd[1234]: Failed password for admin from 10.0.0.44 port 52345 ssh2
+Jun 15 14:32:11 server sshd[1234]: Failed password for admin from 10.0.0.44 port 52346 ssh2
+Jun 15 14:33:00 server sudo: user1 : command not allowed ; TTY=pts/0 ; PWD=/home/user1 ; USER=root
+Jun 15 14:33:10 server sudo: su root attempted by user2
+Jun 15 14:33:15 server sudo: su root attempted by user2
+Jun 15 14:33:20 server sudo: su root attempted by user2
+Jun 15 14:34:00 server syslog: SYN_RECV flood detected from 192.168.100.5
+Jun 15 14:34:01 server syslog: SYN_RECV port scan detected 192.168.100.5
+Jun 15 14:34:02 server syslog: SYN_RECV nmap scan in progress from 192.168.100.5
+Jun 15 14:34:03 server syslog: SYN_RECV SYN_RECV SYN_RECV SYN_RECV SYN_RECV SYN_RECV SYN_RECV SYN_RECV SYN_RECV SYN_RECV SYN_RECV
+Jun 15 14:35:00 server syslog: Suspicious process detected: mimikatz.exe running as SYSTEM
+Jun 15 14:35:10 server powershell: Executing powershell -enc JABjAGwAaQBlAG4AdAAgAD0AIABOAGUAdwAtAE8AYgBqAGUAYwB0
